@@ -1,6 +1,6 @@
-# Amazon-Prime-Dashboard
+# Amazon Prime Dashboard
 
-I'm Thrilled to announce that i have successfully completed the dashboard based on amazon prime.
+I'm Excited to share my project where i developed an Amazon Prime Video Dashboard using power BI
 
 Amazon prime dashboard created using power BI
 
