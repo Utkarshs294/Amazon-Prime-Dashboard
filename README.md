@@ -10,8 +10,8 @@ Dashboard contain :-
  - Card
  - Slicer
  - Filled Map
+ - Area Map
  - Donut chart
- - Bar chart
  - Stacked column chart
 
 Insights :-
