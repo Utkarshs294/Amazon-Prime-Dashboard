@@ -1,16 +1,17 @@
 # Amazon-Prime-Dashboard
+
 I'm Thrilled to announce that i have successfully completed the dashboard based on amazon prime.
 
 Amazon prime dashboard created using power BI
 
 Dashboard contain :-
 
- Filled map,
- Slicer,
- title,
- Stacked column chart,
- Bar chart,
- Donut chart.
+ - Filled map
+ - Slicer
+ - Title
+ - Stacked column chart
+ - Bar chart
+ - Donut chart
 
 Insights :-
 
