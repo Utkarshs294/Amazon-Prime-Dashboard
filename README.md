@@ -6,12 +6,13 @@ Amazon prime dashboard created using power BI
 
 Dashboard contain :-
 
- - Filled map
- - Slicer
  - Title
- - Stacked column chart
- - Bar chart
+ - Card
+ - Slicer
+ - Filled Map
  - Donut chart
+ - Bar chart
+ - Stacked column chart
 
 Insights :-
 
