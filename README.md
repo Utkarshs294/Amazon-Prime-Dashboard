@@ -1,4 +1,4 @@
-# Amazon Prime Dashboard
+ # Amazon Prime Dashboard
 
 I'm Excited to share my project where i developed an Amazon Prime Video Dashboard using power BI
 
